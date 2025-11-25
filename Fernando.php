@@ -4,4 +4,8 @@
  echo"La sintaxis de java inicia con un public class y el nombre de la tabla; luego con un static void seguido de los mensajes que queremos que se vean cerrado con corcheas";
  echo"El POO se utiliza para objetos y declarar sus acciones que realizan o que queremos que realizen primero declarandolas";
  echo"La herencia permite que los atributos de otra clase se puedan pasar o heredar para contribuir a otra clase aparte pero que tenga conexion";
+ echo"El CRUD nos permite poder crear, modificar y eliminar informcion de datos existentes para el programa";
+//UPDATE
+ echo"El UPDATE es una sentencia SQL para poder actualizar varios datos ya escritos con una sentncia de UPDATE, SET, WERE donde el WHERE es la base para evitar que todas las filas se actualicen por error";
+ 
 ?>
