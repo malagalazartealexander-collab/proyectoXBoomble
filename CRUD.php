@@ -7,5 +7,8 @@ echo "<h1>READ</h1>";
 echo "<p>'READ' es una de las cuatro operaciones fundamentales de CRUD, que significaCrear, leer, actualizar y eliminarLa operación 
 'READ' se refiere a la acción de recuperar y mostrar datos existentes de un sistema de almacenamiento, como una base de datos, sin modificarlos.
  Esto se suele implementar en aplicaciones como búsquedas, visualización o generación de informes. </p>";
+ echo "<h1>UPDATE</h1>";
+ echo "<p>El 'UPDATE' es una sentencia SQL para poder actualizar varios datos ya escritos con una sentncia de UPDATE, SET, WERE 
+ donde el WHERE es la base para evitar que todas las filas se actualicen por error en conjunto. </p>";
 
 ?>
