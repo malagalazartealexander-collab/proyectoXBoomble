@@ -10,5 +10,8 @@ echo "<p>'READ' es una de las cuatro operaciones fundamentales de CRUD, que sign
  echo "<h1>UPDATE</h1>";
  echo "<p>El 'UPDATE' es una sentencia SQL para poder actualizar varios datos ya escritos con una sentncia de UPDATE, SET, WERE 
  donde el WHERE es la base para evitar que todas las filas se actualicen por error en conjunto. </p>";
-
+echo"<h1>DELETE</h1>";
+echo"<p>El DELETE es la acción de eliminar un registro o dato existente de una base de datos, permitiendo a los usuarios quitar información
+ obsoleta o innecesaria,nos referimos a un comando esencial en cualquier sistema operativo. Este permite borrar archivos o datos de tu computadora,
+  ya sea de manera temporal o permanente. </p>"
 ?>
